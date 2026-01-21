@@ -138,6 +138,15 @@ Se la risposta contiene un utente, il login è da considerarsi valido.
 
 ---
 
+### 🎨 Nota sul design
+
+Per la realizzazione dell’interfaccia grafica, il candidato può liberamente ispirarsi agli screenshot presenti nella cartella design_inspirations fornita insieme al progetto.
+
+Gli screenshot hanno il solo scopo di fornire un riferimento visivo e non devono essere replicati fedelmente.
+È lasciata piena libertà sulle scelte di layout e stile, purché coerenti, chiare e usabili.
+
+---
+
 ## 📤 Consegna
 
 Il candidato dovrà fornire:
