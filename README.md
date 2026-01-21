@@ -23,12 +23,20 @@ L'applicazione dovrà simulare uno scenario reale in cui il frontend interagisce
 ### 📝 Post
 - Lista dei post
 - Visualizzazione in tabella tramite **Material React Table**
-- Creazione di un nuovo post
+- Creazione di un nuovo post tramite **Drawer**
+- Navigazione verso il dettaglio del singolo post
 - Modifica ed eliminazione di un post
+- Tornando dalla pagina di dettaglio alla lista, **lo stato della tabella deve essere preservato** (filtri, ordinamento, paginazione, scroll)
 
 ### 👤 Utenti
-- Visualizzazione elenco utenti
-- Associazione post → utente
+- Lista degli utenti
+- Visualizzazione in tabella tramite **Material React Table**
+- Creazione di un nuovo utente tramite **Drawer**
+- Navigazione verso il dettaglio del singolo utente
+- Modifica ed eliminazione di un utente
+- Mostrare i posts dell'utente nel dettaglio dell'utente
+- Tornando dalla pagina di dettaglio alla lista, **lo stato della tabella deve essere preservato** (filtri, ordinamento, paginazione, scroll)
+
 
 > ✨ **Bonus (facoltativi)**
 > - Paginazione
