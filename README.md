@@ -44,6 +44,7 @@ L'applicazione dovrà simulare uno scenario reale in cui il frontend interagisce
 Il progetto **deve** essere sviluppato utilizzando il seguente stack:
 
 - **React**
+- **Vite**
 - **TypeScript**
 - **Material UI (MUI)**
 - **Material React Table** (basato su TanStack Table)
